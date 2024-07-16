@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Korra Saiteja</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">IT Enthusiast at CBIT with expertise in Python and the MERN Stack. Driven by a passion for problem-solving and innovation. Eager to push boundaries and create a significant impact in the tech industry. Join me on this journey of exploration and innovation!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saitejakorra&label=Profile%20views&color=0e75b6&style=flat" alt="saitejakorra" /> </p>
 
