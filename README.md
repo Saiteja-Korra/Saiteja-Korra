@@ -15,8 +15,8 @@
 - 📫 How to reach me **saitejakorra2002@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
-- 
-- 🔗 [**Check out my portfolio**]([https://your-portfolio-link.com](https://saiteja-korra.github.io/Portfolio/#))
+  
+- 🔗 [**Check out my portfolio**](https://saiteja-korra.github.io/Portfolio/#)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
